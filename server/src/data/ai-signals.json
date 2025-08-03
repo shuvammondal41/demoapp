@@ -1,0 +1,17 @@
+[
+  {
+    "symbol": "BTC",
+    "signal": "hold",
+    "timestamp": 1754178275204
+  },
+  {
+    "symbol": "ETH",
+    "signal": "hold",
+    "timestamp": 1754178275204
+  },
+  {
+    "symbol": "SOL",
+    "signal": "hold",
+    "timestamp": 1754178275204
+  }
+]

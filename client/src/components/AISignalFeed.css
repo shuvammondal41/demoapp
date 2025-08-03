@@ -1,0 +1,35 @@
+.ai-signal-feed {
+  background: #f4f4f4;
+  padding: 1rem;
+  margin: 2rem auto;
+  max-width: 600px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.ai-signal-feed h2 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.signal {
+  border-bottom: 1px solid #ddd;
+  padding: 0.5rem 0;
+}
+
+.signal.buy {
+  color: green;
+}
+
+.signal.sell {
+  color: red;
+}
+
+.signal.hold {
+  color: orange;
+}
+
+.timestamp {
+  font-size: 0.8rem;
+  color: #777;
+}
